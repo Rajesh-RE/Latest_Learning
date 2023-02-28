@@ -1,5 +1,5 @@
-sas program 
-proc sort data 
-%macro
-%mend 
-***for New_Branch program***
+a=5 
+b=10
+print(a) 
+print(b) 
+****master program****
